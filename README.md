@@ -5,7 +5,7 @@ The Llama 2 is a collection of pretrained and fine-tuned generative text models,
 
 It outperforms open-source chat models on most benchmarks and is on par with popular closed-source models in human evaluations for helpfulness and safety.
 
-Llama 2 13B-chat
+[Llama 2 13B-chat](https://huggingface.co/meta-llama/Llama-2-13b-chat)
 
 llama.cpp's objective is to run the LLaMA model with 4-bit integer quantization on MacBook. It is a plain C/C++ implementation optimized for Apple silicon and x86 architectures, supporting various integer quantization and BLAS libraries. Originally a web chat example, it now serves as a development playground for ggml library features.
 
